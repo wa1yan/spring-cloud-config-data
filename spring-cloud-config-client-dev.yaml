@@ -1,0 +1,2 @@
+app:
+ greet: "Hello for spring cloud config client from config data on dev"
