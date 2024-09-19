@@ -1,2 +1,2 @@
 app:
- greet: "Hello for spring cloud config client from config data on dev updated 15"
+ greet: "Hello for spring cloud config client from config data on dev updated 16"
