@@ -1,0 +1,2 @@
+app:
+ greet: "Hello from default on spring cloud config client"
