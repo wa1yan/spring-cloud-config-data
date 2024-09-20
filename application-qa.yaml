@@ -1,2 +1,2 @@
 app:
- greet: "Hello from cloud config data on qa updated 6"
+ greet: "External config on qa"
