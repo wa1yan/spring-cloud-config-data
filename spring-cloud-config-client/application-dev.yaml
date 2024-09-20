@@ -1,7 +1,2 @@
-spring:
- application:
-  name: spring-cloud-config-client
- profiles:
-  active: dev
 app:
  greet: "Hello for spring cloud config client from config data on dev updated 16"
