@@ -1,2 +1,3 @@
 app:
  greet: "transaction-service-dev"
+ greetServiceEnabled: true
