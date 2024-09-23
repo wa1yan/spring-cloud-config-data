@@ -1,2 +1,4 @@
 app:
  greet: "spring-cloud-client-qa updated"
+ greetServiceEnabled: true
+
