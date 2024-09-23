@@ -1,2 +1,2 @@
 app:
- greet: "Hello from transaction service dev updated"
+ greet: "transaction-service-dev"
