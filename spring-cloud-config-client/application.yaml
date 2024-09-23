@@ -1,2 +1,3 @@
 app:
  greet: "spring-cloud-config-cient-default"
+ greetServiceEnabled: true
