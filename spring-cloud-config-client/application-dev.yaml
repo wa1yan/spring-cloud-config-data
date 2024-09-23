@@ -1,2 +1,2 @@
 app:
- greet: "spring-cloud-config-client-dev"
+ greet: "spring-cloud-config-client-dev updated"
