@@ -1,2 +1,2 @@
 app:
- greet: "Hello from default on spring cloud config client"
+ greet: "spring-cloud-config-cient-default"
