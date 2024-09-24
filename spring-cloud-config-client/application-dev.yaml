@@ -1,3 +1,3 @@
 app:
  greet: "spring-cloud-config-client-dev updated"
- disabledFeatures: feature-greet5,feature-greet4,feature-greet3,feature-greet2,feature-greet1,feature-greet
+ disabledFeatures: feature-greet5,feature-greet4,feature-greet3,feature-greet2,feature-greet1,feature-greet, feature-test
