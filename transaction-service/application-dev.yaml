@@ -1,3 +1,3 @@
 app:
  greet: "transaction-service-dev updated"
- disabledFeatures: feature-c,feature-d, feature-a, feature-b
+ disabledFeatures: feature-c,feature-d
